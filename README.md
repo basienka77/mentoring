@@ -8,7 +8,7 @@ The goal of the project is to provide a backend application that will enable the
 
 ## General info
 This project is a back-end application facilitating REST API that allows the student to book a time and date with a mentor during irregular availability hours. After making the reservation, both persons are informed by e-mail about the appointment. The project was developed as part of a hacktics project from Euvic. 
-##Functions
+## Functions
 - 15-minute meetings
 - max 5 reservations per month
 - documentation created with Swagger
